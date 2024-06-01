@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
         borderColor:'black',
     },
     bigText:{
-        fontSize: 20,
+        fontSize: 19,
         fontWeight: 'bold',
     },
     imgStyles:{

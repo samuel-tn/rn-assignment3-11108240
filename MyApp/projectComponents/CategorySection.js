@@ -45,10 +45,10 @@ const styles = StyleSheet.create({
         padding: 0,
     },
     category: {
-        fontSize: 20,
+        fontSize: 19,
         fontWeight: "bold",
         color: "black",
-        borderRadius: 20,
+        borderRadius: 19,
         marginTop: -5,
         width: "77%",
     },

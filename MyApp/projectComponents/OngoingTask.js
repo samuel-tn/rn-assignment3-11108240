@@ -2,21 +2,21 @@ import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
 const tasks = [
-  { key: 1, name: 'Mobile App Development' },
+  { key: 1, name: 'Mobile Application Development' },
   { key: 2, name: 'Web Development' },
-  { key: 3, name: 'Pushups' },
-  { key: 4, name: 'Grocery Shopping' },
-  { key: 5, name: 'Read a Book' },
+  { key: 3, name: 'Run for 20 minutes' },
+  { key: 4, name: 'Shopping' },
+  { key: 5, name: 'Read a Graphic' },
   { key: 6, name: 'Clean the House' },
-  { key: 7, name: 'Cook Dinner' },
+  { key: 7, name: 'Cook Breakfast' },
   { key: 8, name: 'Laundry' },
-  { key: 9, name: 'Water the Plants' },
-  { key: 10, name: 'Yoga Session' },
+  { key: 9, name: 'Watch Television' },
+  { key: 10, name: 'Go for a Walk' },
   { key: 11, name: 'Email Correspondence' },
   { key: 12, name: 'Plan a Trip' },
-  { key: 13, name: 'Budget Review' },
-  { key: 14, name: 'Workout Routine' },
-  { key: 15, name: 'Write a Blog Post' },
+  { key: 13, name: 'Online Studies' },
+  { key: 14, name: 'Write Codes' },
+  { key: 15, name: 'Forex Trading' },
 ];
 
 export default function CategoryList() {
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     },
     bigText: {
         fontWeight: "bold",
-        fontSize: 15,
+        fontSize: 14,
     },
     biggerText: {
         fontWeight: "bold",

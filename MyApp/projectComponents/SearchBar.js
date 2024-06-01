@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
         width:"77%"
     },
     imgButtonStyles: {
-        backgroundColor: "red",
+        backgroundColor: "blue",
         padding:6,
         borderRadius:10
     },
