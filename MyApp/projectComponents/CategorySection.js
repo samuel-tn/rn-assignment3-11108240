@@ -4,7 +4,7 @@ const categories = [
     { key: 1, name: "Exercise" },
     { key: 2, name: "Study" },
     { key: 3, name: "Code" },
-    { key: 4, name: "Meditate" },
+    { key: 4, name: "Trade on Forex" },
     { key: 5, name: "Exercise" },
     { key: 6, name: "Study" },
     { key: 7, name: "Code" },

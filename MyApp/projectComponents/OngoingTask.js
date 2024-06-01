@@ -13,7 +13,7 @@ const tasks = [
   { key: 9, name: 'Watch Television' },
   { key: 10, name: 'Go for a Walk' },
   { key: 11, name: 'Email Correspondence' },
-  { key: 12, name: 'Plan a Trip' },
+  { key: 12, name: 'Plan a Date' },
   { key: 13, name: 'Online Studies' },
   { key: 14, name: 'Write Codes' },
   { key: 15, name: 'Forex Trading' },
