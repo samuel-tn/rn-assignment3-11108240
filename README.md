@@ -11,9 +11,9 @@ Description:
 Screenshot
 
 
-![MyApp](./Screenshot_1)
-![MyApp](./Screenshot_2)
-![MyApp](./Screenshot_3)
+![MyApp](./Screenshot_1.jpg)
+![MyApp](./Screenshot_2.jpg)
+![MyApp](./Screenshot_3.jpg)
 ID:
 
 11108240
